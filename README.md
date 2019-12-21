@@ -18,9 +18,6 @@ This is the server/backend file for [Dice-Game](https://github.com/eslamharidy/d
 
 #### 👀👇 Click links to view some samples in this project 👇👀
 
-      2-Data base  and models.
-      3-Data base streaming.
-and more.. 
 - **[Docker](https://www.docker.com/get-started)**  
 - **[PostgresQL](https://www.postgresql.org/docs/)**  
 - **[Routing](user/router.js)**  
