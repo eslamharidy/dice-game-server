@@ -26,7 +26,7 @@ and more..
 - **[Routing](user/router.js)**  
 - **[Modeling](user/model.js)** 
 - **[JWT](auth/jwt.js)**  
-- **[Authentication](auth/router.js)**
+- **[Autherization](auth/router.js)**
 - **[Stream](index.js)**
 
 ## Goals for this project:
